@@ -1,4 +1,4 @@
-The Comprehensive study of socio-economic factors, migration patterns and business sustainability of street vendors of Mumbai city
+The Comprehensive study of socio-economic factors, migration patterns and business sustainability of street vendors of Mumbai city.
 After conducting extensive literature review of multiple research papers and journal publications, we found that there is need to study the following objectives:-
 1) To study the influence of socio-economic factors on the income of street vendors.
 2) To study the causes for migration among street vendors based on similar migration patterns, socio-economic factors and employment characteristics.
