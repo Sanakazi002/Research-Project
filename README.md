@@ -16,4 +16,4 @@ Conclusions are as follows:
 
 Suggestions and Impact of this project:
 
-These  findings are highly valuable for evidence-based urban planning, particularly for designing targeted interventions under the Smart Cities Mission and PM SVANidhi scheme. These insights can help urban local bodies allocate resources, define vending zones, and deliver benefits more efficiently to the most vulnerable vendor segments.
+These  findings are highly valuable for evidence-based urban planning, particularly for designing targeted interventions under the Smart Cities Mission and PM SVANidhi scheme. These insights can help urban local bodies allocate resources, define vending zones, and deliver benefits more efficiently to the most vulnerable vendor segments. Majority of migrants are from Uttar Pradesh, so may be over there we can conduct the same study to reveal the cause of migration.
