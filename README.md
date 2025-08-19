@@ -13,5 +13,7 @@ Conclusions are as follows:
 1) Built a linear regression model in R, using stepwise selection to identify significant predictors affecting average monthly income;  found 43% of income variance explained, with higher earnings on the Western line and lower for non-food vendors.
 2) Applied K-Modes clustering in Python to detect migration patterns based on socio-economic and employment traits, revealing 3 distinct vendor profiles, visualized through a dendrogram based on Hamming distance.
 3) Work duration and food product type are the strongest factor affecting customer count.
+
 Suggestions and Impact of this project:
+
 These  findings are highly valuable for evidence-based urban planning, particularly for designing targeted interventions under the Smart Cities Mission and PM SVANidhi scheme. These insights can help urban local bodies allocate resources, define vending zones, and deliver benefits more efficiently to the most vulnerable vendor segments.
